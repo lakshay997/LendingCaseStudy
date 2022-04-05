@@ -11,12 +11,12 @@ The company wants to understand the driving factors (or driver variables) behind
 
 ## Analysis Approach
 
-> Data Cleaning
-> Data preparation
-> Derived Metrics
-> Univariate Analysis
-> Univariate Segmented Analysis
-> Bivariate Analysis
+1. Data Cleaning
+2. Data preparation
+3. Derived Metrics
+4. Univariate Analysis
+5. Univariate Segmented Analysis
+6. Bivariate Analysis
 
 ## Acknowledgements
 
